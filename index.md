@@ -1,4 +1,6 @@
-# Hi
+---
+title: This is a Title
+---
 
 ## Welcome to GitHub Pages!
 
