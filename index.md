@@ -2,6 +2,9 @@
 title: "Amber Wise: Design, 3D Animation, and Digital Artwork"
 ---
 
+## Practice
+[Photos](/photos.md)
+
 ## Welcome to GitHub Pages!
 
 You can use the [editor on GitHub](https://github.com/wiseacre7/amberwisedesigns/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
