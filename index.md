@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Link](google.com)
+[Link](https://www.google.com/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
