@@ -2,6 +2,10 @@
 title: "Amber Wise: Design, 3D Animation, and Digital Artwork"
 ---
 
+<aside class="notice">
+Hi this is a notice.
+</aside>
+
 ## Practice
 [Photos](/photos.md)
 
