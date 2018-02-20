@@ -1,5 +1,6 @@
 ---
 title: "Amber Wise: Design, 3D Animation, and Digital Artwork"
+favicon: /assets/img/Logo.png
 ---
 
 ## Practice
