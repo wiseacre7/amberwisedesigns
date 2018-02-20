@@ -1,5 +1,5 @@
 ---
-title: This is a Title
+title: Amber Wise: Design, 3D Animation, and Digital Artwork
 ---
 
 ## Welcome to GitHub Pages!
