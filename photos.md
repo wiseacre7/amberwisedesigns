@@ -11,4 +11,7 @@ Art of all mediums has fascinated me. Digitally, I usually create through Adobe 
 ## Posterization - Pen Tool
 <img src="assets/img/HarryPotterPosterized.png" height="500"> <img src="assets/img/HarryPotterPenTool.png" height="500">
 
+## Interface Design
+
+## Me
 ![Me](/assets/img/Me.jpg)
