@@ -1,6 +1,5 @@
 ---
 title: "Amber Wise: Design, 3D Animation, and Digital Artwork"
-<code style="overflow: scroll;"><link rel='shortcut icon' href='favicon.ico' type='image/x-icon' /></code>
 ---
 
 ## Practice
