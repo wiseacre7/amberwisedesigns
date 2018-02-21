@@ -12,8 +12,8 @@ Art of all mediums has fascinated me. Digitally, I usually create through Adobe 
 <img src="assets/img/HarryPotterPosterized.png" height="500"> <img src="assets/img/HarryPotterPenTool.png" height="500">
 
 ## Interface Design
-<img src="assets/img/Mockup1.png" height="350"> <img src="assets/img/Mockup2.png" height="350">
-<img src="assets/img/Mockup3.png" height="350"> <img src="assets/img/MockupFinal.png" height="350">
+<img src="assets/img/Mockup1.png" width="325"> <img src="assets/img/Mockup2.png" width="325">
+<img src="assets/img/Mockup3.png" width="325"> <img src="assets/img/MockupFinal.png" width="325">
 
 ## Me
 ![Me](/assets/img/Me.jpg)
