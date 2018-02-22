@@ -13,8 +13,7 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 <img src="assets/img/HarryPotterPosterized.png" height="500"> <img src="assets/img/HarryPotterPenTool.png" height="500">
 
 ## Interface Design
-<img src="assets/img/Mockup1.png" width="310"> <img src="assets/img/Mockup2.png" width="310">
-<img src="assets/img/Mockup3.png" width="310"> <img src="assets/img/MockupFinal.png" width="310">
+<img src="assets/img/All Mockups.png">
 
 ## Icons
 <img src="assets/img/DatabaseSecurityPresentation.png">
