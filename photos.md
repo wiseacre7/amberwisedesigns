@@ -5,6 +5,20 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 
 ## Circles
 <img src="assets/img/Circles.png">
+<div id="lightgallery">
+  <a href="assets/img/Circles.png">
+      <img src="assets/img/Circles.png" />
+  </a>
+  <a href="assets/img/Squares.png">
+      <img src="assets/img/Squares.png" />
+  </a>
+  ...
+</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#lightgallery").lightGallery(); 
+    });
+</script>
 
 ## Squares
 <img src="assets/img/Squares.png">
