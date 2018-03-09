@@ -4,7 +4,7 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 
 
 ## Circles
-<img src="assets/img/Circles.png">
+<img src="assets/img/Circles.png" width="500">
 {% comment %}
 <div id="lightgallery">
   <a href="assets/img/Circles.png">
@@ -23,7 +23,7 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 {% endcomment %}
 
 ## Squares
-<img src="assets/img/Squares.png">
+<img src="assets/img/Squares.png" width="500">
 
 ## Posterization - Pen Tool
 <img src="assets/img/HarryPotterPosterized.png" height="500"> <img src="assets/img/HarryPotterPenTool.png" height="500">
@@ -36,6 +36,6 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 <img src="assets/img/Logo.png" width="200">
 
 ## Website Commissions
-<img src="assets/img/HolyBibleLogo_Blue.png">
-<img src="assets/img/HolyBibleLogo_Green.png">
+<img src="assets/img/HolyBibleLogo_Blue.png" height="600">
+<img src="assets/img/HolyBibleLogo_Green.png" height="600">
 
