@@ -6,9 +6,6 @@ title: "Amber Wise: Design, 3D Animation, and Digital Artwork"
 [Photos](/photos.md)
 
 
-<script>
-lightGallery(document.getElementById('lightgallery'))
-</script>
 
 {% comment %} 
     
