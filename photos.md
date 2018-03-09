@@ -5,6 +5,7 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 
 ## Circles
 <img src="assets/img/Circles.png">
+{% comment %}
 <div id="lightgallery">
   <a href="assets/img/Circles.png">
       <img src="assets/img/Circles.png" />
@@ -19,6 +20,7 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
         $("#lightgallery").lightGallery(); 
     });
 </script>
+{% endcomment %}
 
 ## Squares
 <img src="assets/img/Squares.png">
