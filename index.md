@@ -13,8 +13,7 @@ title: "Amber Wise: Design, 3D Animation, and Digital Artwork"
   
   
 ## Digital Art Portfolio
-A link to my digital art can be found below:
-
+A link to my digital art can be found here:
 [Digital Art Portfolio](/photos.md)
 
 
