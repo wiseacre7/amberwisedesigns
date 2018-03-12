@@ -1,4 +1,26 @@
-## Welcome to GitHub Pages
+---
+title: "Amber Wise: Design, 3D Animation, and Digital Artwork"
+---
+
+## About Me
+<img align="left" src="assets/img/MeCircle.png" width="200" hspace="20">  
+<br/>
+My name is Amber Wise. I am a graduate from Eastern Washington University, where I graduated with a Bachelor of Science in Computer Science with a Minor in 3D Animation. This website exists to showcase some of my work in a portfolio for those that wish to view it. Feel free to look around! It is still a work-in-progress however, so please bear with me!  
+
+<br/>
+
+<br/>
+  
+  
+## Digital Art Portfolio
+A link to my digital art can be found here:
+[Digital Art Portfolio](/photos.md)
+
+
+
+{% comment %} 
+    
+## Welcome to GitHub Pages!
 
 You can use the [editor on GitHub](https://github.com/wiseacre7/amberwisedesigns/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +47,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Link](https://www.google.com/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -35,3 +58,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+{% endcomment %}
