@@ -4,7 +4,7 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 
 
 ## Circles
-<img src="assets/img/Circles.png" width="500">
+<img src="assets/img/Circles.png" width="500" class="center">
 {% comment %}
 <div id="lightgallery">
   <a href="assets/img/Circles.png">
