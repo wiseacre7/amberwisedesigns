@@ -29,26 +29,3 @@ This is a commission I did recently for a colleague, who was designing a website
 <img src="assets/img/DatabaseSecurityPresentation.png" class="center">
 <img src="assets/img/Logo.png" width="200" class="center">
 
-<div class="demo-gallery">
-  <ul id="lightgallery" class="list-unstyled row">
-    <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="assets/img/Circles.png 375, assets/img/Circles.png 480, assets/img/Circles.png 800" data-src="assets/img/Circles.png" data-sub-html="<h4>Circles</h4><p>These images were created for my design class through Adobe Photoshop, meant to give the illusion of transparency without actually applying any transparent layers. All objects in the images were physically placed, and the opacity for every shape is 100%.</p>">
-      <a href="">
-        <img class="img-responsive" src="assets/img/Circles.png">
-      </a>
-     </li>
-     <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="assets/img/Squares.png 375, assets/img/Squares.png 480, assets/img/Squares.png 800" data-src="assets/img/Squares.png" data-sub-html="<h4>Squares</h4><p>These images were created for my design class through Adobe Photoshop, meant to give the illusion of transparency without actually applying any transparent layers. All objects in the images were physically placed, and the opacity for every shape is 100%.</p>">
-        <a href="">
-          <img class="img-responsive" src="assets/img/Squares.png">
-        </a>
-      </li>
-   </ul>
- </div>
- <script type="text/javascript">
-    $(document).ready(function(){
-        $('#lightgallery').lightGallery();
-    });
- </script>
- <script src="https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js"></script>
- <script src="dist/js/lightgallery-all.min.js"></script>
- <script src="lib/jquery.mousewheel.min.js"></script>
-
