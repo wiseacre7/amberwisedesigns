@@ -6,7 +6,7 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 ## Circles / Squares
 These images were created for my design class through Adobe Photoshop, meant to give the illusion of transparency without actually applying any transparent layers. All objects in the images were physically placed, and the opacity for every shape is 100%.
 
-<img src="assets/img/Circles.png" width="500" class="center"> 
+<img src="assets/img/Circles.png" width="500" class="center" vspace="10">
 <img src="assets/img/Squares.png" width="500" class="center">
 
 ## Posterization - Pen Tool
