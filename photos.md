@@ -6,8 +6,11 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 ## Circles / Squares
 These images were created for my design class through Adobe Photoshop, meant to give the illusion of transparency without actually applying any transparent layers. All objects in the images were physically placed, and the opacity for every shape is 100%.
 
-<img src="assets/img/Circles.png" width="500" class="center">
 {% comment %}
+<img src="assets/img/Circles.png" width="500" class="center">
+<img src="assets/img/Squares.png" width="500" class="center">
+{% endcomment %}
+
 <div id="lightgallery">
   <a href="assets/img/Circles.png">
       <img src="assets/img/Circles.png" />
@@ -22,9 +25,6 @@ These images were created for my design class through Adobe Photoshop, meant to 
         $("#lightgallery").lightGallery(); 
     });
 </script>
-{% endcomment %}
-
-<img src="assets/img/Squares.png" width="500" class="center">
 
 ## Posterization - Pen Tool
 As a Harry Potter fan, I took an image of one of the movie promotions and posterized it using Adobe Photoshop. I then imported it into Adobe Illustrator and used the pen tool, as well as a set pallet of colors, to trace the posterization into a new style.
