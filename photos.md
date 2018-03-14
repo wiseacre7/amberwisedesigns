@@ -29,7 +29,7 @@ This is a commission I did recently for a colleague, who was designing a website
 <img src="assets/img/DatabaseSecurityPresentation.png" class="center">
 <img src="assets/img/Logo.png" width="200" class="center">
 
-{ % comment % }
+{% comment %}
 
 <div class="demo-gallery">
   <ul id="lightgallery" class="list-unstyled row">
@@ -54,5 +54,5 @@ This is a commission I did recently for a colleague, who was designing a website
  <script src="dist/js/lightgallery-all.min.js"></script>
  <script src="lib/jquery.mousewheel.min.js"></script>
  
- { % endcomment % }
+ {% endcomment %}
 
