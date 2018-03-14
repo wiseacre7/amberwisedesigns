@@ -29,7 +29,7 @@ These images were created for my design class through Adobe Photoshop, meant to 
 ## Posterization - Pen Tool
 As a Harry Potter fan, I took an image of one of the movie promotions and posterized it using Adobe Photoshop. I then imported it into Adobe Illustrator and used the pen tool, as well as a set pallet of colors, to trace the posterization into a new style.
 
-<div class="center"><img src="assets/img/HarryPotterPosterized.png" height="500"> <img src="assets/img/HarryPotterPenTool.png" height="500"></div>
+<img src="assets/img/HarryPotterPosterized.png" height="520"> <img src="assets/img/HarryPotterPenTool.png" height="520">
 
 ## Interface Design
 For my senior project at EWU, I was tasked with re-designing the interface for a check-in kiosk that would be used at EWU career fairs to print off nametags and track attendee statistics. These are several mockups I made through Adobe Photoshop and presented to my team, all before I started programming the actual interface.
