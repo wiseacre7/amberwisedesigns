@@ -25,7 +25,7 @@ These images were created for my design class through Adobe Photoshop, meant to 
         });
     </script>
     <script src="https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js"></script>
-    <script src="../dist/js/lightgallery-all.min.js"></script>
+    <script src="dist/js/lightgallery-all.min.js"></script>
     <script src="../lib/jquery.mousewheel.min.js"></script>
 </body>
 
