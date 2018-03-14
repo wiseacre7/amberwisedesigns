@@ -3,7 +3,9 @@
 Art of all mediums has always fascinated me. Digitally, I usually create through Adobe Suite (Photoshop, Illustrator, InDesign, etc.) or similar software. I do use traditional mediums as well, however incorporating my art into a digital piece provides just as much learning potential. I enjoy the crisp lines, vibrant colors, and versatility that digital art is able to accomplish.
 
 
-## Circles
+## Circles / Squares
+These images were created for my design class through Adobe Photoshop, meant to give the illusion of transparency without actually applying any transparent layers. All objects in the images were physically placed, and the opacity for every shape is 100%.
+
 <img src="assets/img/Circles.png" width="500" class="center">
 {% comment %}
 <div id="lightgallery">
@@ -22,20 +24,26 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 </script>
 {% endcomment %}
 
-## Squares
 <img src="assets/img/Squares.png" width="500" class="center">
 
 ## Posterization - Pen Tool
-<img src="assets/img/HarryPotterPosterized.png" height="500"> <img src="assets/img/HarryPotterPenTool.png" height="500">
+As a Harry Potter fan, I took an image of one of the movie promotions and posterized it using Adobe Photoshop. I then imported it into Adobe Illustrator and used the pen tool, as well as a set pallet of colors, to trace the posterization into a new style.
+
+<div class="center"><img src="assets/img/HarryPotterPosterized.png" height="500"> <img src="assets/img/HarryPotterPenTool.png" height="500"></div>
 
 ## Interface Design
+For my senior project at EWU, I was tasked with re-designing the interface for a check-in kiosk that would be used at EWU career fairs to print off nametags and track attendee statistics. These are several mockups I made through Adobe Photoshop and presented to my team, all before I started programming the actual interface.
+
 <img src="assets/img/All Mockups.png" class="center">
 
-## Icons
-<img src="assets/img/DatabaseSecurityPresentation.png">
-<img src="assets/img/Logo.png" width="200" class="center">
-
 ## Website Commissions
+This is a commission I did recently for a colleague, who was designing a website for a client's religious study group. It was created through Illustrator with the pen tool. It is a vector to be infinitely scalable, and the background is easily adjusted as the pallet of the website has not been determined yet.
+
 <img src="assets/img/HolyBibleLogo_Blue.png" height="600" class="center">
 <img src="assets/img/HolyBibleLogo_Green.png" height="600" class="center">
+
+## Icons
+<img src="assets/img/DatabaseSecurityPresentation.png" class="center">
+<img src="assets/img/Logo.png" width="200" class="center">
+
 
