@@ -26,13 +26,13 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 <img src="assets/img/Squares.png" width="500" class="center">
 
 ## Posterization - Pen Tool
-<img src="assets/img/HarryPotterPosterized.png" height="500"> <img src="assets/img/HarryPotterPenTool.png" height="500">
+<div class="center"><img src="assets/img/HarryPotterPosterized.png" height="500"> <img src="assets/img/HarryPotterPenTool.png" height="500"></div>
 
 ## Interface Design
 <img src="assets/img/All Mockups.png" class="center">
 
 ## Icons
-<img src="assets/img/DatabaseSecurityPresentation.png">
+<img src="assets/img/DatabaseSecurityPresentation.png" class="center">
 <img src="assets/img/Logo.png" width="200" class="center">
 
 ## Website Commissions
