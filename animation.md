@@ -1,6 +1,6 @@
 # 3D Animation
 
-This section is for 3D Animation project I have done. These were completed in 3DS Max.
+This section is for 3D Animation projects I have done. These were completed in 3DS Max during my 3D Animation minor.
 
 ## Foam Fire Extinguisher
 This clip uses a particle flow for the fire and for the extinghuisher, which extinguishes a burning EWU symbol.
