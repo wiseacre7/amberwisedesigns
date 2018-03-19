@@ -5,7 +5,7 @@ This section is for 3D Animation project I have done. These were completed in 3D
 ## Foam Fire Extinguisher
 This clip uses a particle flow for the fire and for the extinghuisher, which extinguishes a burning EWU symbol.
 
-{ % include youtubePlayer.html id="lbSf7Olc0Tc" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lbSf7Olc0Tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 {% comment %}
 ![Sample Video](assets/videos/FoamHoseAnimation.mp4)
