@@ -5,5 +5,9 @@ This section is for 3D Animation project I have done. These were completed in 3D
 ## Foam Fire Extinguisher
 This clip uses a particle flow for the fire and for the extinghuisher, which extinguishes a burning EWU symbol.
 
-<iframe width="650" height="366" src="https://www.youtube.com/embed/lbSf7Olc0Tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="650" height="366" src="https://www.youtube.com/embed/lbSf7Olc0Tc&hd=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## FlameThrower 
+In contrast, this animation uses particle flow for fire instead. The flamethrower is following a spline path of my name, and leaves a texture in it's wake as my name 'burned' into the brick wall.
+
+<iframe width="650" height="366" src="https://www.youtube.com/embed/OfovKnCm5bM&hd=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
