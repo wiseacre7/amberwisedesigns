@@ -14,7 +14,7 @@ My name is Amber Wise. I am a graduate from Eastern Washington University, where
   
 ## Digital Art Portfolio
 A link to my digital art can be found here:
-[Digital Art Portfolio](/photos.md)
+<span style="color:#4CAF50">[Digital Art Portfolio](/photos.md)</span>
 
 
 
