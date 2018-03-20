@@ -1,6 +1,11 @@
 # 3D Animation
 
-This section is for 3D Animation projects I have done. These were completed in 3DS Max during my 3D Animation minor.
+This section is for 3D Animation projects I have done. These were completed in 3DS Max during my 3D Animation minor at EWU.
+
+## Toys
+A 20-second animation that I created with 3D-Modeled toys that begin chasing each other around the child's playroom. Here a couple interactions are shown, demonstrating cause-and-effect between the objects. This was my first ever animation.
+
+<iframe width="650" height="366" src="https://www.youtube.com/embed/FNfExmf5mWM?vq=hd720" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="vertAlign"></iframe>
 
 ## Foam Fire Extinguisher
 This clip uses a particle flow for the fire and for the extinghuisher, which extinguishes a burning EWU symbol.
@@ -21,4 +26,3 @@ This project was for us to animate a usually inanimate object in order to give i
 For this project, we were asked to model and texture a self-portrait, then animate the mouth to match a sound clip of our own voice. The prompt for speech was "I love 3D Animation because..." followed by our own reasoning. In order to create the visual aspect of the model's speech, I modeled each of the distinct phonemes using the face/mouth and morphed into them each time they came up in my voice recording.
 
 <iframe width="650" height="366" src="https://www.youtube.com/embed/3CwV8SjccdQ?vq=hd720" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="vertAlign"></iframe>  
-  
