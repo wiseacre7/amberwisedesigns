@@ -1,9 +1,6 @@
 ---
 ---
 
-
-@import "{{ site.theme }}";
-
 a {
   color: #ffd454;
   font-weight: 400;
@@ -14,6 +11,9 @@ a {
     color: lighten(#ffd454, 15%);
   }
 }
+
+@import "{{ site.theme }}";
+
 
 /*-----------------------------------*/
 /*-- Vertically Alligning Pictures --*/
