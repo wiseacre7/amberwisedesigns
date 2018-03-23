@@ -23,15 +23,14 @@ For my senior project at EWU, I was tasked with re-designing the interface for a
 ### Bible Logo
 This is a commission I did recently for a colleague, who was designing a website for a client's religious study group. It was created through Illustrator with the pen tool. It is a vector to be infinitely scalable, and the background is easily adjusted as the pallet of the website has not been determined yet.
 
-<img src="assets/img/HolyBibleLogo_Blue.png" width="325">
-<img src="assets/img/HolyBibleLogo_Green.png" width="325">
+<img src="assets/img/HolyBibleLogo_Blue.png" width="310"> <img src="assets/img/HolyBibleLogo_Green.png" width="310">
 
 ### Humane Society Graphics
 These images are to garnish a website that is for a humane society, which is still under development.
 
 <img src="assets/img/Shake.png" width="650" class="center">
-<img src="assets/img/PuppyOutline1_Black.png" width="325"> <img src="assets/img/PuppyOutline1_White.png" width="325">
-<img src="assets/img/PuppyOutline2_Black.png" width="325"> <img src="assets/img/PuppyOutline2_White.png" width="325">
+<img src="assets/img/PuppyOutline1_Black.png" width="310"> <img src="assets/img/PuppyOutline1_White.png" width="310">
+<img src="assets/img/PuppyOutline2_Black.png" width="310"> <img src="assets/img/PuppyOutline2_White.png" width="310">
 <img src="assets/img/PawPrints3.png" class="center">
 
 ## Icons
