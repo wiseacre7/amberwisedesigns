@@ -1,19 +1,15 @@
 ---
 ---
 
-a {
-  color: #ffd454;
-  font-weight: 400;
-  text-decoration: none;
-  transition: color 150ms ease;
-
-  &:hover {
-    color: lighten(#ffd454, 15%);
-  }
-}
 
 @import "{{ site.theme }}";
 
+a {
+  color: green;
+  font-weight: 400;
+  text-decoration: none;
+  transition: color 150ms ease;
+}
 
 /*-----------------------------------*/
 /*-- Vertically Alligning Pictures --*/
