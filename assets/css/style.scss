@@ -75,13 +75,13 @@
 
 
 a {
-  color: $color-yellow;
+  color: #ffd454;
   font-weight: 400;
   text-decoration: none;
   border-bottom: 1px dotted;
   transition: color 150ms ease;
 
   &:hover {
-    color: lighten($color-yellow, 15%);
+    color: lighten(#ffd454, 15%);
   }
 }
