@@ -5,10 +5,13 @@
 @import "{{ site.theme }}";
 
 a {
-  color: #55f75a;
+  color: ##6df872;
   font-weight: 400;
   text-decoration: none;
   transition: color 150ms ease;
+}
+a:hover {
+  color: #98fa9b
 }
 
 /*-----------------------------------*/
