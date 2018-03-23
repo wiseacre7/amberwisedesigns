@@ -15,7 +15,7 @@ As a Harry Potter fan, I took an image of one of the movie promotions and poster
 <img src="assets/img/HarryPotterPosterized.png" height="520"> <img src="assets/img/HarryPotterPenTool.png" height="520">
 
 ## Interface Design
-For my senior project at EWU, I was tasked with re-designing the interface for a check-in kiosk that would be used at EWU career fairs to print off nametags and track attendee statistics. These are several mockups I made through Adobe Photoshop and presented to my team, all before I started programming the actual interface.
+For my senior project at EWU, I was tasked with re-designing the interface for a check-in kiosk that would accept user information at EWU career fairs to print off nametags and track attendee statistics. These are several mockups I made through Adobe Photoshop and presented to my team, all before I started programming the actual interface. I also needed to make sure that the kiosk followed the [EWU Identity Standards](https://access.ewu.edu/Documents/MarComm/EWU_IdentityStandards14.pdf), as this was going to be used at official EWU events.
 
 <img src="assets/img/All Mockups.png" class="center">
 
@@ -26,7 +26,7 @@ This is a commission I did recently for a colleague, who was designing a website
 <img src="assets/img/HolyBibleLogo_Blue.png" width="310"> <img src="assets/img/HolyBibleLogo_Green.png" width="310">
 
 ### Humane Society Graphics
-These images are to garnish a website that is for a humane society, which is still under development.
+These images are to garnish a website that is for a humane society, which is still under development. I was also asked to make the link images containing other companies' logos uniform for phone and tablet compatibility.
 
 <img src="assets/img/Shake.png" width="650" class="center">
 <img src="assets/img/PuppyOutline1_Black.png" width="310"> <img src="assets/img/PuppyOutline1_White.png" width="310">
@@ -34,6 +34,8 @@ These images are to garnish a website that is for a humane society, which is sti
 <img src="assets/img/PawPrints3.png" class="center">
 
 ## Icons
+I also polish up icons when needed, as shown below where I used a [Homestuck](http://www.mspaintadventures.com/) icon for inspiration on title slides for a powerpoint presentation.
+
 <img src="assets/img/DatabaseSecurityPresentation.png" class="center">
 <img src="assets/img/Logo.png" width="200" class="center">
 
