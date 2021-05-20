@@ -9,6 +9,10 @@ My current line of work as a Graphic Designer involves creating mail pieces for 
 
 <img src="assets/img/Deschutes01.png" width="500" class="center" vspace="10">
 
+## Newsletter Design
+At my current position, some mail pieces include large newsletters. The below is a newsletter I made from scratch for a client that wanted to portray a delicate, relaxing feel while remaining professional as a newsletter. I created the background vines as a vector using the pen tool, and was able to customize it to his specifications until the client was satisfied with the end result. The printed version is on an 11 x 17 sheet, folded in half and included with their quarterly donation letters.
+
+
 ## CookBook Project
 As a personal project, my mom and her colleagues wanted to make a cook book as a retirement gift. The book would be comprised of some favorite recipes by all of the employees that he had worked with over the years. Since I am a designer, my mom asked if I would compile the recipes into a cook book that we could print ourselves and present to him in a binder. I was glad to be a part of something so special, so of course I jumped at the chance. The following are a few pages for examples.
 
