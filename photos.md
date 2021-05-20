@@ -18,7 +18,8 @@ At my current company, some mail pieces we print and mail can include large news
 ## Donnor Letter Design
 Another type of mail piece I was asked to create can be seen here, which is a donation letter. The client asked that I use the 30th Anniversary logo as inspiration to make their letter background. I came up with several options, the top-left of which was chosen as the final version.
 
-
+<img src="assets/img/IrvineBarclay0101.png" width="310"> <img src="assets/img/IrvineBarclay0201.png" width="310">
+<img src="assets/img/IrvineBarclay0301.png" width="310"> <img src="assets/img/IrvineBarclay0401.png" width="310">
 
 ## CookBook Project
 As a personal project, my mom and her colleagues wanted to make a cook book as a retirement gift. The book would be comprised of some favorite recipes by all of the employees that he had worked with over the years. Since I am a designer, my mom asked if I would compile the recipes into a cook book that we could print ourselves and present to him in a binder. I was glad to be a part of something so special, so of course I jumped at the chance. The following are a few pages for examples.
