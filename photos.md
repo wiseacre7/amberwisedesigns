@@ -9,6 +9,11 @@ My current line of work as a Graphic Designer involves creating mail pieces for 
 
 <img src="assets/img/Deschutes01.png" width="500" class="center" vspace="10">
 
+## CookBook Project
+As a personal project, my mom and her colleagues wanted to make a cook book as a retirement gift. The book would be comprised of some favorite recipes by all of the employees that he had worked with over the years. Since I am a designer, my mom asked if I would compile the recipes into a cook book that we could print ourselves and present to him in a binder. I was glad to be a part of something so special, so of course I jumped at the chance. The following are a few pages for examples.
+
+<img src="assets/img/CBCover.png" width="310"> <img src="assets/img/CBCoverSharon.png" width="310">
+
 ## Circles / Squares
 These images were created for my design class through Adobe Photoshop, meant to give the illusion of transparency without actually applying any transparent layers. All objects in the images were physically placed, and the opacity for every shape is 100%.
 
