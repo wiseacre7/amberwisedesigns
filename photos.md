@@ -44,22 +44,22 @@ For my senior project at EWU, I was tasked with re-designing the interface for a
 <img src="assets/img/All Mockups.png" class="center">
 
 
-[]: # (## Website Commissions)
-[]: # (### Bible Logo)
-[]: # "This is a commission I did recently for a colleague, who was designing a website for a client's religious study group. It was created through Illustrator with the pen tool. It is a vector to be infinitely scalable, and the background is easily adjusted as the pallet of the website has not been determined yet."
+[//]: # (## Website Commissions)
+[//]: # (### Bible Logo)
+[//]: # "This is a commission I did recently for a colleague, who was designing a website for a client's religious study group. It was created through Illustrator with the pen tool. It is a vector to be infinitely scalable, and the background is easily adjusted as the pallet of the website has not been determined yet."
 
-[]: # (<img src="assets/img/HolyBibleLogo_Blue.png" width="310"> <img src="assets/img/HolyBibleLogo_Green.png" width="310">)
+[//]: # (<img src="assets/img/HolyBibleLogo_Blue.png" width="310"> <img src="assets/img/HolyBibleLogo_Green.png" width="310">)
 
-[]: # (### Humane Society Graphics)
-[]: # "These images are to garnish a website that is for a humane society, which is still under development. I was also asked to make the link images containing other companies' logos uniform for phone and tablet compatibility."
+[//]: # (### Humane Society Graphics)
+[//]: # "These images are to garnish a website that is for a humane society, which is still under development. I was also asked to make the link images containing other companies' logos uniform for phone and tablet compatibility."
 
-[]: # (<img src="assets/img/Shake.png" width="650" class="center">)
-[]: # (<img src="assets/img/PuppyOutline1_Black.png" width="310"> <img src="assets/img/PuppyOutline1_White.png" width="310">)
-[]: # (<img src="assets/img/PuppyOutline2_Black.png" width="310"> <img src="assets/img/PuppyOutline2_White.png" width="310">)
-[]: # (<img src="assets/img/PawPrints3.png" class="center">)
+[//]: # (<img src="assets/img/Shake.png" width="650" class="center">)
+[//]: # (<img src="assets/img/PuppyOutline1_Black.png" width="310"> <img src="assets/img/PuppyOutline1_White.png" width="310">)
+[//]: # (<img src="assets/img/PuppyOutline2_Black.png" width="310"> <img src="assets/img/PuppyOutline2_White.png" width="310">)
+[//]: # (<img src="assets/img/PawPrints3.png" class="center">)
 
-[]: # (## Icons)
-[]: # "I also polish up icons when needed, as shown below where I used a [Homestuck](http://www.mspaintadventures.com/) icon for inspiration on title slides for a powerpoint presentation."
+[//]: # (## Icons)
+[//]: # "I also polish up icons when needed, as shown below where I used a [Homestuck](http://www.mspaintadventures.com/) icon for inspiration on title slides for a powerpoint presentation."
 
-[]: # (<img src="assets/img/DatabaseSecurityPresentation.png" class="center">)
+[//]: # (<img src="assets/img/DatabaseSecurityPresentation.png" class="center">)
 <img src="assets/img/Logo.png" width="100" class="center">
