@@ -3,6 +3,12 @@
 Art of all mediums has always fascinated me. Digitally, I usually create through Adobe Suite (Photoshop, Illustrator, InDesign, etc.) or similar software. I do use traditional mediums as well, however incorporating my art into a digital piece provides just as much learning potential. I enjoy the crisp lines, vibrant colors, and versatility that digital art is able to accomplish.
 
 
+
+## Deschutes TEST
+This is Deschutes
+
+<img src="assets/img/Deschutes01.png" width="500" class="center" vspace="10">
+
 ## Circles / Squares
 These images were created for my design class through Adobe Photoshop, meant to give the illusion of transparency without actually applying any transparent layers. All objects in the images were physically placed, and the opacity for every shape is 100%.
 
@@ -18,6 +24,9 @@ As a Harry Potter fan, I took an image of one of the movie promotions and poster
 For my senior project at EWU, I was tasked with re-designing the interface for a check-in kiosk that would accept user information at EWU career fairs to print off nametags and track attendee statistics. These are several mockups I made through Adobe Photoshop and presented to my team, all before I started programming the actual interface. I also needed to make sure that the kiosk followed the [EWU Identity Standards](https://access.ewu.edu/Documents/MarComm/EWU_IdentityStandards14.pdf), as this was going to be used at official EWU events.
 
 <img src="assets/img/All Mockups.png" class="center">
+
+
+{% comment %}
 
 ## Website Commissions
 ### Bible Logo
@@ -39,7 +48,7 @@ I also polish up icons when needed, as shown below where I used a [Homestuck](ht
 <img src="assets/img/DatabaseSecurityPresentation.png" class="center">
 <img src="assets/img/Logo.png" width="200" class="center">
 
-{% comment %}
+
 
 <div class="demo-gallery">
   <ul id="lightgallery" class="list-unstyled row">
