@@ -4,8 +4,8 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 
 
 
-## Deschutes TEST
-This is Deschutes
+## Billing Statement Design
+My current line of work as a Graphic Designer involves creating mail pieces for clients. Sometimes, if they are unsure what they would like or only have a general idea, I will create an entirely new statement for them. The below pet license bill was created with just the prompt that they wanted an upgrade and a more modern looking statement.
 
 <img src="assets/img/Deschutes01.png" width="500" class="center" vspace="10">
 
