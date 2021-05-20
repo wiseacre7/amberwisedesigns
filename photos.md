@@ -26,8 +26,6 @@ For my senior project at EWU, I was tasked with re-designing the interface for a
 <img src="assets/img/All Mockups.png" class="center">
 
 
-{% comment %}
-
 ## Website Commissions
 ### Bible Logo
 This is a commission I did recently for a colleague, who was designing a website for a client's religious study group. It was created through Illustrator with the pen tool. It is a vector to be infinitely scalable, and the background is easily adjusted as the pallet of the website has not been determined yet.
@@ -49,6 +47,7 @@ I also polish up icons when needed, as shown below where I used a [Homestuck](ht
 <img src="assets/img/Logo.png" width="200" class="center">
 
 
+{% comment %}
 
 <div class="demo-gallery">
   <ul id="lightgallery" class="list-unstyled row">
