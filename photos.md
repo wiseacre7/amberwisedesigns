@@ -1,24 +1,24 @@
 # Digital Art
 
-Art of all mediums has always fascinated me. Digitally, I usually create through Adobe Creative Suite (Photoshop, Illustrator, InDesign, etc.) or similar software. I do use traditional mediums as well, however incorporating my art into a digital piece provides just as much fuel for my creativity. I enjoy the crisp lines, vibrant colors, and versatility that digital art is able to accomplish.
+Art of all mediums has always fascinated me. Digitally, I usually create through Adobe Creative Suite (Photoshop, Illustrator, InDesign, etc.) or similar software. I do use traditional art mediums as well, however incorporating my art into a digital piece provides just as much fuel for my creativity. I enjoy the crisp lines, vibrant colors, and versatility that digital art is able to accomplish.
 
 
 ## Work Projects
-These are some examples of the work I do at the printing and mailing company I currently work at.
+These are some examples of the work I did at the printing and mailing company I most recently worked at. All identifying information and logos have been redacted or changed for client confidentiality.
 
 ### Billing Statement Design
-My most recent line of work as a Graphic Designer involved creating mail pieces for clients. Sometimes, if they were unsure what they would like or only had a general idea, I would create an entirely new statement for them. The below pet license bill was created with just the prompt that they wanted an upgrade and a more modern looking statement. All identifying information and logos have been changed for client confidentiality.
+My most recent line of work as a Graphic Designer involved creating mail pieces for clients. Sometimes, if they were unsure what they would like or only had a general idea, I would create an entirely new statement for them. The below pet license bill was created with just the prompt that they wanted an upgrade and a more modern looking statement.
 
 <img src="assets/img/Anywhere Tr_REDACTED.png" width="500" class="center">
 
 ### Newsletter Design
-At my current company, some mail pieces we print and mail can include large newsletters. Below is a newsletter template I made from scratch for a client that wanted to portray a delicate, relaxing feel while remaining professional as a newsletter. I created the background vines as a vector using the pen tool, and was able to customize it to his specifications until the client was satisfied with the end result. The printed version is on an 11 x 17 sheet (duplex), folded in half as a booklet and included with their quarterly donation letters. This example contains only dummy text, and all identifying information and logos have been changed for client confidentiality.
+Some mail pieces we printed and mailed could include large newsletters. Below is a newsletter template I made from scratch for a client that wanted to portray a delicate, relaxing feel while remaining professional as a newsletter. I created the background vines as a vector using the pen tool, and was able to customize it to their specifications until the client was satisfied with the end result. The printed version is on an 11 x 17 sheet (duplex), folded in half as a booklet and included with their quarterly donation letters.
 
 <img src="assets/img/ImmaculateNL01.png" width="650" class="center" vspace="10">
 <img src="assets/img/ImmaculateNL02.png" width="650" class="center">
 
 ### Donor Letter Design
-Another type of mail piece I was asked to create can be seen here, which is a donation letter. The client asked that I use the 30th Anniversary logo as inspiration to make their letter background. I came up with several options, the top-left of which was chosen as the final version.
+In some cases, I would be asked to create several different versions that clients could choose from. This client asked that I use their Anniversary logo as inspiration to make their donation letter background, as they were not sure how to design it themselves. I came up with several options, the top-left of which was chosen as the final version. I also keep cost-effective ink usage in mind when designing letters that will go out to a large number of people, which was the case with most of our mailings.
 
 <img src="assets/img/IrvineBarclay0101.png" width="310"> <img src="assets/img/IrvineBarclay0201.png" width="310">
 <img src="assets/img/IrvineBarclay0301.png" width="310"> <img src="assets/img/IrvineBarclay0401.png" width="310">
