@@ -14,14 +14,14 @@ My most recent line of work as a Graphic Designer involved creating mail pieces 
 ### Newsletter Design
 Some mail pieces we printed and mailed could include large newsletters. Below is a newsletter template I made from scratch for a client that wanted to portray a delicate, relaxing feel while remaining professional as a newsletter. I created the background vines as a vector using the pen tool, and was able to customize it to their specifications until the client was satisfied with the end result. The printed version is on an 11 x 17 sheet (duplex), folded in half as a booklet and included with their quarterly donation letters.
 
-<img src="assets/img/ImmaculateNL01.png" width="650" class="center" vspace="10">
-<img src="assets/img/ImmaculateNL02.png" width="650" class="center">
+<img src="assets/img/Newsletter01_REDACTED.png" width="650" class="center" vspace="10">
+<img src="assets/img/Newsletter02_REDACTED.png" width="650" class="center">
 
 ### Donor Letter Design
 In some cases, I would be asked to create several different versions that clients could choose from. This client asked that I use their Anniversary logo as inspiration to make their donation letter background, as they were not sure how to design it themselves. I came up with several options, the top-left of which was chosen as the final version. I also keep cost-effective ink usage in mind when designing letters that will go out to a large number of people, which was the case with most of our mailings.
 
-<img src="assets/img/IrvineBarclay0101.png" width="310"> <img src="assets/img/IrvineBarclay0201.png" width="310">
-<img src="assets/img/IrvineBarclay0301.png" width="310"> <img src="assets/img/IrvineBarclay0401.png" width="310">
+<img src="assets/img/OrsonSmithly01_REDACTED.png" width="310"> <img src="assets/img/OrsonSmithly02_REDACTED.png" width="310">
+<img src="assets/img/OrsonSmithly03_REDACTED.png" width="310"> <img src="assets/img/OrsonSmithly04_REDACTED.png" width="310">
 
 ## Personal Projects
 I also like to use my skills in my spare time, either for family and friends or for art I create as a gift.
