@@ -9,7 +9,7 @@ These are some examples of the work I do at the printing and mailing company I c
 ### Billing Statement Design
 My current line of work as a Graphic Designer involves creating mail pieces for clients. Sometimes, if they are unsure what they would like or only have a general idea, I will create an entirely new statement for them. The below pet license bill was created with just the prompt that they wanted an upgrade and a more modern looking statement.
 
-<img src="assets/img/Deschutes01.png" width="500" class="center">
+<img src="assets/img/Anywhere Tr_REDACTED.png" width="500" class="center">
 
 ### Newsletter Design
 At my current company, some mail pieces we print and mail can include large newsletters. The below is a newsletter template I made from scratch for a client that wanted to portray a delicate, relaxing feel while remaining professional as a newsletter. I created the background vines as a vector using the pen tool, and was able to customize it to his specifications until the client was satisfied with the end result. The printed version is on an 11 x 17 sheet (duplex), folded in half as a booklet and included with their quarterly donation letters. This example contains only dummy text, as the articles and images change each quarter.
