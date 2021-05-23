@@ -7,7 +7,7 @@ Art of all mediums has always fascinated me. Digitally, I usually create through
 These are some examples of the work I do at the printing and mailing company I currently work at.
 
 ### Billing Statement Design
-My current line of work as a Graphic Designer involves creating mail pieces for clients. Sometimes, if they are unsure what they would like or only have a general idea, I will create an entirely new statement for them. The below pet license bill was created with just the prompt that they wanted an upgrade and a more modern looking statement.
+My most recent line of work as a Graphic Designer involved creating mail pieces for clients. Sometimes, if they were unsure what they would like or only had a general idea, I would create an entirely new statement for them. The below pet license bill was created with just the prompt that they wanted an upgrade and a more modern looking statement. All identifying information and logos have been redacted or changed for client confidentiality.
 
 <img src="assets/img/Anywhere Tr_REDACTED.png" width="500" class="center">
 
