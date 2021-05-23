@@ -10,9 +10,7 @@ My name is Amber Wise. I am a Graphic Designer who has also worked in Software D
 <br/>
 
 <br/>
-  
-  
-## Digital Art Portfolio
+
 A link to my Graphic Design Portfolio can be found here:
 <span style="color:#4CAF50">[Graphic Design Portfolio](/photos.md)</span>
 
