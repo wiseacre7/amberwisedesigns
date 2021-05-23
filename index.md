@@ -1,11 +1,11 @@
 ---
-title: "Amber Wise: Design, 3D Animation, and Digital Artwork"
+title: "Amber Wise: Graphic Designer"
 ---
 
 # About Me
 <img align="left" src="assets/img/MeCircle.png" width="200" hspace="20">  
 <br/>
-My name is Amber Wise. I am a graduate from Eastern Washington University, where I earned a Bachelor of Science in Computer Science with a Minor in 3D Animation. This website exists to showcase some of my work in a portfolio for those that wish to view it. Feel free to look around! It is still a work-in-progress however, so please bear with me!  
+My name is Amber Wise. I am a Graphic Designer who has also worked in Software Development and Data Processing. I graduated from Eastern Washington University in 2016, where I earned my Bachelor of Science in Computer Science with a Minor in 3D Animation. This website exists to showcase some of my work in a portfolio for those that wish to view it. Feel free to look around!
 
 <br/>
 
@@ -13,8 +13,8 @@ My name is Amber Wise. I am a graduate from Eastern Washington University, where
   
   
 ## Digital Art Portfolio
-A link to my digital art can be found here:
-<span style="color:#4CAF50">[Digital Art Portfolio](/photos.md)</span>
+A link to my Graphic Design Portfolio can be found here:
+<span style="color:#4CAF50">[Graphic Design Portfolio](/photos.md)</span>
 
 
 
